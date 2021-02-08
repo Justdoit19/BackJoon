@@ -1,3 +1,6 @@
+//clang++-7 -pthread -std=c++17 -o main 파일이름.cpp
+//./main
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
